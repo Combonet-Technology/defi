@@ -1,0 +1,14 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+py-solc-x = "*"
+python-dotenv = "*"
+web3 = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.8"
